@@ -12,14 +12,4 @@ Estimar un modelo de diversificación del orden Thelephorales haciendo uso de da
 - Estimar la tasa de diversificación del grupo incluyendo información morfológica sobre la forma del basidioma y la forma del himenóforo.
 
 ## Estructuras de carpetas
-### Data 
-Aquí se encontrarán las secuencias que serán utilizadas para los análisis filogenéticos. Además de una matriz con caracteres codificados.
 
-### Scripts
-En este apartado estrán los scripts necesarios para el procesamiento de las secuencias utilizadas para los análisis.
-
-### Results
-En esta sección se presentarán todos los resultados obtenidos al final del proyecto.
-
-### Docs
-Aquí encontrarás todos los documentos generados a lo largo del proyecto como bases de datos, matrices, secuencias, árboles filogenéticos, gráficas, etc.
