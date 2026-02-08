@@ -11,5 +11,6 @@ Estimar un modelo de diversificación del orden Thelephorales haciendo uso de da
 - Realizar fechamiento de la filogenia con la información fósil disponible de hongos.
 - Estimar la tasa de diversificación del grupo incluyendo información morfológica sobre la forma del basidioma y la forma del himenóforo.
 
-## Estructuras de carpetas
+## Estructura de carpetas
+
 
