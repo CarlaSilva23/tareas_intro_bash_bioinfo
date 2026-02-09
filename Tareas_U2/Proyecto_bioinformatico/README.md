@@ -18,11 +18,12 @@ project_root/
 │  ├─ raw_sequences
 │  ├─ processed_sequences
 │  └─ matrix
-├─ scripts
+├─ scripts/
 ├─ results/
 │  └─ phylogeny
 └─ docs/
    ├─ access_genbank
    └─ access_unite
+
 
 
