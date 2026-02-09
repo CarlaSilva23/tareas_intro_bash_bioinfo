@@ -12,5 +12,17 @@ Estimar un modelo de diversificación del orden Thelephorales haciendo uso de da
 - Estimar la tasa de diversificación del grupo incluyendo información morfológica sobre la forma del basidioma y la forma del himenóforo.
 
 ## Estructura de carpetas
+```
+project_root/
+├─ data/
+│  ├─ raw_sequences
+│  ├─ processed_sequences
+│  └─ matrix
+├─ scripts
+├─ results/
+│  └─ phylogeny
+└─ docs/
+   ├─ access_genbank
+   └─ access_unite
 
 
