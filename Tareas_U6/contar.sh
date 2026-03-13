@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Autora: Carla Silva
+# Este código es para hacer validaciones previas de archivos, funciona para validar si un archivo está vacío y para saber las líneas que contienen un "@" en un archivo FASTQ
 file="GenusA_speciesA_CAP_R1.fq.gz"
 if [[ ! -s "$file" ]]; then
 
