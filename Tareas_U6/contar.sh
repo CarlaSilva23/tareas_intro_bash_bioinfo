@@ -3,9 +3,9 @@
 file="GenusA_speciesA_CAP_R1.fq.gz"
 if [[ ! -s "$file" ]]; then
 
- echo "el archivo está vacio o no existe"
+   echo "el archivo esta vacio o no existe"
 
-    exit 0
+   exit 0
 
 fi
 
